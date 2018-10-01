@@ -1,0 +1,7 @@
+{:paths ["src"]
+ :deps {org.clojure/clojure {mvn/version "1.7.0"}
+        org.clojure/clojurescript {:mvn/version "1.7.288"}
+        org.clojure/core.match "0.3.0-alpha4"
+        datascript {:mvn/version "0.15.0"}
+        com.datomic/datomic-free {:mvn/version "0.9.5407"}
+        rum {:mvn/version "0.11.2"}}}
